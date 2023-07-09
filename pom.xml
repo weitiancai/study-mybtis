@@ -10,11 +10,11 @@
     <packaging>pom</packaging>
 
     <name>copy study maven mybatis</name>
-    <url></url>
+    <url>https://github.com/weitiancai/study-mybtis</url>
     <description>《深入浅出 MyBatis 技术原理与实战》学习项目源码</description>
 
     <modules>
-        <module>cho01-abstracts</module>
+        <module>cho1-abstracts</module>
         <module>ch02-hello</module>
         <module>ch03-config</module>
         <module>ch04-mappers</module>
